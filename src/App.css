@@ -1,0 +1,74 @@
+/* Reset de estilos predeterminados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Estilos para la aplicación */
+.app {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+/* Estilos de fondos de imágenes */
+.default-background {
+    background-image: url("https://www.meteorologiaenred.com/wp-content/uploads/2018/10/elementos-del-clima.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.clear-sky,
+.scattered-clouds,
+.overcast-clouds, 
+.few-clouds,
+.broken-clouds,
+.shower-rain,
+.rain,
+.moderate-rain,
+.light-rain,
+.thunderstorm{
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.clear-sky {
+    background-image: url("./clear-sky.jpg");
+}
+
+.scattered-clouds {
+    background-image: url("./scattered-clouds.jpg");
+}
+
+.overcast-clouds {
+    background-image: url("./overcast-clouds.jpg");
+}
+
+.few-clouds{
+    background-image: url("./few clouds.jpg");
+}
+
+.broken-clouds{
+    background-image: url("./broken clouds.jpg");
+}
+
+.shower-rain,
+.rain{
+    background-image: url("./shower rain.jpg");
+}
+
+.light-rain,
+.moderate-rain{
+    background-image: url("./light rain.jpg");
+}
+.thunderstorm{
+    background-image: url("./thunderstorm.jpg");
+}
+
+
+
+  
+  
