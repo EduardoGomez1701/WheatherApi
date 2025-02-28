@@ -36,15 +36,15 @@
 }
 
 .clear-sky {
-    background-image: url("./clear-sky.jpg");
+    background-image: url("./clearsky.jpg");
 }
 
 .scattered-clouds {
-    background-image: url("./scattered-clouds.jpg");
+    background-image: url("./scatteredclouds.jpg");
 }
 
 .overcast-clouds {
-    background-image: url("./overcast-clouds.jpg");
+    background-image: url("./overcastclouds.jpg");
 }
 
 .few-clouds{
@@ -67,8 +67,3 @@
 .thunderstorm{
     background-image: url("./thunderstorm.jpg");
 }
-
-
-
-  
-  
