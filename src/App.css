@@ -48,21 +48,21 @@
 }
 
 .few-clouds{
-    background-image: url("./few clouds.jpg");
+    background-image: url("./fewclouds.jpg");
 }
 
 .broken-clouds{
-    background-image: url("./broken clouds.jpg");
+    background-image: url("./brokenclouds.jpg");
 }
 
 .shower-rain,
 .rain{
-    background-image: url("./shower rain.jpg");
+    background-image: url("./showerrain.jpg");
 }
 
 .light-rain,
 .moderate-rain{
-    background-image: url("./light rain.jpg");
+    background-image: url("./lightrain.jpg");
 }
 .thunderstorm{
     background-image: url("./thunderstorm.jpg");
